@@ -1,0 +1,15 @@
+name: NetSecurity-ML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip=20.2.2
+  - jupyter
+  - scikit-learn
+  - swifter
+  - dask
+  - tensorflow=1.14
+  - seaborn
+  - pip:
+    - stable-baselines==2.10.1
