@@ -11,7 +11,7 @@ Each notebook is focused on the following:
 
 i. **preprocessing.ipynb**: preprocessing and creation of train, test, validation sets of the CIC-IDS 2017 dataset presented here: http://205.174.165.80/CICDataset/CIC-IDS-2017/Dataset/.
 
-ii. **setup_and_training.ipynb**: Building the DRL model and training on the CIC-IDS 2017 dataset.
+ii. **setup_and_training.ipynb**: Building the DRL model and training on the CIC-IDS 2017 dataset presented here: http://205.174.165.80/CICDataset/NSL-KDD/Dataset/ .
 
 iii. **setup_and_training_NSL-KDD.ipynb**: Building the DRL model and training on the NSL-KDD dataset (already preprocessed and stored in the directory as a .csv file)
 
